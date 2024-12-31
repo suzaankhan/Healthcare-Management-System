@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-admin",
+  "version": "1.0.0",
+  "description": "A web-based **Healthcare Management System** designed to help hospital administrators efficiently manage patient records, admissions, discharges, and more. This system offers an intuitive dashboard built with **React**, **HTML**, **CSS**, and **JavaScript** on the frontend, and a **Node.js**, **Express** backend with **Firebase Firestore** for secure and scalable data management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
