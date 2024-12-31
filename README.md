@@ -9,7 +9,28 @@ Sehat Mitr is a comprehensive health record management system designed to stream
 - Emergency Assistance: Users can select emergency cases and locate specialized hospitals within a defined radius.
 - Secure Login and Logout System: Ensures user data security with a confirmation mechanism during logout.
 
-![Image](./assets/home.png)
+## Mobile App
+<img src="./ignore/mobile/login1.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/login2.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/login3.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/signup.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/otp2.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/otp3.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/home.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/locatehosp1.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/locatehosp2.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/locatehosp3.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/locatehospt4.jpg" alt="Alt Text" width="200"/>
+<img src="./ignore/mobile/logout.jpg" alt="Alt Text" width="200"/>
+
+## Web Admin
+![Image](./ignore/web/login.png)
+![Image](./ignore/web/dashboard.png)
+![Image](./ignore/web/new.png)
+![Image](./ignore/web/register.png)
+![Image](./ignore/web/search.png)
+![Image](./ignore/web/discharge.png)
+
 
 ## Technologies Used
 - **Frontend:** Android (Java, XML), React (for web-based system)
