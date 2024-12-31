@@ -8,3 +8,12 @@ Sehat Mitr is a comprehensive health record management system designed to stream
 - Health Record Management: Displays health records in card-based layouts with details like admission/discharge dates, medicines, and diagnostics.
 - Emergency Assistance: Users can select emergency cases and locate specialized hospitals within a defined radius.
 - Secure Login and Logout System: Ensures user data security with a confirmation mechanism during logout.
+
+![Image](./assets/home.png)
+
+## Technologies Used
+- **Frontend:** Android (Java, XML), React (for web-based system)
+- **Backend:** Node.js, Express.js
+- **Database:** Firebase
+- **Authentication:** Firebase Authentication
+
